@@ -9,6 +9,7 @@ public class MiPrimeraClase {
 	public static void otroMetodo() {
 		System.out.print("este es un metodo");
 		System.out.print("este es un mensaje de la nueva version");
+		System.out.print("este es un mensaje de la nueva nueva version");
 	}
 
 }
